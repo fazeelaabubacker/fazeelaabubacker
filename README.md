@@ -1,0 +1,1 @@
+I'm Fazeela with 9 years of experience in IT with 7 years of experience in Drupal. I'm looking forward to learn and improve my Drupal and BASH scripting. I have a very keen interest in creating new bash commands.
